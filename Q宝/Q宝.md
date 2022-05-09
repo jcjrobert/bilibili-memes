@@ -10,4 +10,3 @@ Q宝 - 一款真正人性化的智能语音
 
 - [原版](https://www.bilibili.com/video/BV1Ft411V78z)
 - [4K优化](https://www.bilibili.com/video/BV1mA411s7zH)
-
